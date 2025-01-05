@@ -1,1 +1,1 @@
-# getting_badges 1
+# getting_badges 12
